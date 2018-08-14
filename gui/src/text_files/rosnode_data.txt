@@ -1,0 +1,9 @@
+data: [/Drive] node is running fine
+[/data_subscriber] node is running fine
+[/Arm] node is running fine
+[/rosout] node is running fine
+[/Arm_arduino] node is running fine
+[/joy2] node is running fine
+[/joy] node is running fine
+[/rosPinger] node is running fine
+[/Drive_arduino] node is running fine
